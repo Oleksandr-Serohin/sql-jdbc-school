@@ -12,7 +12,7 @@
         <java.version>16</java.version>
         <junit.jupiter.version>5.8.0-M1</junit.jupiter.version>
         <junit.platform.version>1.8.0-M1</junit.platform.version>
-        <assertj-core.version>3.19.0</assertj-core.version>
+        <assertj-core.version>3.27.7</assertj-core.version>
         <postgresql.version>42.3.9</postgresql.version>
         <mockito-core.version>3.9.0</mockito-core.version>
         <maven-surefire-plugin>3.0.0-M5</maven-surefire-plugin>
